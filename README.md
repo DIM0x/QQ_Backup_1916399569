@@ -6,4 +6,6 @@
 
 截至最新一次提交修改时，八中最新表白墙的QQ号为：2939530757，目前处于活跃状态，欢迎前往QQ搜索添加。
 
-可通过GitHub Pages访问此页面；另可通过neocities链接访问：https://dl8z.neocities.org/QQ1916399569/
+可通过GitHub Pages访问此页面；另可通过4everland链接访问：https://qq_backup_1916399569.4everland.app/
+
+> 导出QQ空间内容技术支持：[QQ空间导出助手](https://github.com/ShunCai/QZoneExport)
